@@ -1,0 +1,7 @@
+qiskit>=2.1,<3
+qiskit-aer>=0.17
+numpy>=2.0
+scipy>=1.14
+matplotlib>=3.8
+jupyterlab>=4
+pyscf>=2.9          # Chapter 8 notebook only (H2 integrals)
